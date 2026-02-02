@@ -2,6 +2,8 @@
 DATA SCIENCE NOTES
 
 **An Introduction to Machine Learning **
+
+
 Machine learning is a subfield of artificial intelligence (AI).  The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people. Although machine learning is a field within computer science, it differs from traditional computational approaches. In traditional computing, algorithms are sets of explicitly programmed instructions used by computers to calculate or problem solve. Machine learning algorithms instead allow for computers to train on data inputs and use statistical analysis in order to output values that fall within a specific range. Because of this, machine learning facilitates computers in building models from sample data in order to automate decision-making processes based on data inputs. 
 
 Eg:- Facial recognition technology allows social media platforms to help users tag and share photos of friends, Self-driving cars. 
